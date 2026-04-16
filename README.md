@@ -14,7 +14,7 @@ The Power BI report is divided into focused analytical sections to provide step-
 * **Dynamic Filtering:** Interactive slicers for Date, Region, Product, and Salesperson to allow for customized data drill-downs.
 
 ## 📸 Dashboard Preview
-[Insert Screenshot of your Main Executive Overview Page Here]
+![Executive Overview](dash_screenshot1.png)
 
 ## 🛠️ Technical Implementation
 This project was built using strict data modeling and advanced DAX principles.
@@ -30,16 +30,16 @@ This project was built using strict data modeling and advanced DAX principles.
 ## 💡 Key Business Insights
 After cleaning, modeling, and visualizing the dataset, the following concrete insights were extracted:
 
-* **Insight 1:** [Example: The "Dark Chocolate" category drove the highest revenue, accounting for [Insert Number]% of total sales in Q3.]
-* **Insight 2:** [Example: The [Insert Region] region underperformed consistently across the fiscal year, highlighting a need for targeted marketing.]
-* **Insight 3:** [Example: Salesperson [Insert Name] secured the highest Average Order Value, contributing $[Insert Number] in total revenue.]
-* **Insight 4:** [Insert your 4th insight from your Word document here]
-* **Insight 5:** [Insert your 5th insight from your Word document here]
+* [cite_start]**Insight 1:** Total revenue for the period stood at $12.8 million, with an average order value of $35.79, indicating consistent mid-range transaction sizes across all regions and products[cite: 13].
+* [cite_start]**Insight 2:** 2023 outperformed 2022 across all months analyzed[cite: 14]. [cite_start]Revenue was consistently higher in 2023, suggesting positive business growth year over year[cite: 14].
+* [cite_start]**Insight 3:** Smooth Silky Salty was the top revenue-generating product at $723.3K, while 50% Dark Bites led in quantity shipped, suggesting it is a high-volume but lower-priced product[cite: 16].
+* [cite_start]**Insight 4:** Australia was the strongest performing region, leading in both total revenue at $2.4M and boxes shipped at over 66,000 units, making it the most valuable market in the dataset[cite: 17].
+* [cite_start]**Insight 5:** Ches Bonnell was the top salesperson by revenue at $661,770, while Kelci Walkden led in total orders at 108, showing different strengths among the top performers[cite: 18].
 
 ## 📂 Files Included
-* `Chocolate_Sales_Dashboard.pbix` - The core Power BI project file containing the data model, DAX measures, and interactive visuals.
-* `Insights_Summary.docx` - A detailed breakdown of the analytical findings.
+* `dashboard3.pbix` - The core Power BI project file containing the data model, DAX measures, and interactive visuals.
 * Dashboard Screenshots - High-resolution images of the report pages for quick viewing.
+* `dashboard3pdf.pdf` - A complete export of the dashboard views.
 
 ---
 *Created as a capstone project to demonstrate proficiency in Power BI, DAX, and data modeling.*
